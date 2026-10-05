@@ -1,0 +1,8 @@
+Иденти | Командная строка                        | Дата и время     | Действия       | Изменен
+----------------------------------------------------------------------------------------------
+     6 | install /tmp/tcpdump-4.99.5-1.red80.i68 | 2026-10-05 23:29 | Install        |   11   
+     5 | install nginx libcap-ng-utils -y        | 2026-10-05 23:26 | Install        |    5   
+     4 | update -y                               | 2026-10-05 23:03 | I, O, U        |  282 E<
+     3 | autoremove -y --setopt=metadata_expire= | 2026-09-30 23:04 | Removed        |    1 ><
+     2 | remove -y --setopt=metadata_expire=-1 v | 2026-09-30 23:00 | Removed        |    4 >E
+     1 |                                         | 2026-09-30 21:54 | Install        | 2018 EE
